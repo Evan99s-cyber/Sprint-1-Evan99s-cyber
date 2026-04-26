@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+socketserver
+*.o
+
+# Ignore IDE files
+.vscode/
